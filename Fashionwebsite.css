@@ -1,0 +1,159 @@
+.navbar-brand
+{
+    font-weight: bold;
+    margin-left: 70px;
+    font-size: 30px;
+    
+}
+#toggleMenu
+{
+    padding-left: 250px;
+     font-weight: bold;
+     font-size: 18px;
+     
+}
+
+#itemcontainer
+{
+    position: relative;
+}
+.text-block
+{
+    position: absolute;
+    top:220px;
+    bottom: 100px;
+    right: 20px;
+    left:130px;
+    color: white;
+    
+    
+}
+
+#firsth1
+{
+    position: absolute;
+    top:300px;
+    bottom: 100px;
+    right: 20px;
+    left:130px;
+    color:darkblue;
+    animation: expand 5s infinite;
+    
+
+
+}
+
+@keyframes expand
+ {
+    from {
+        left: 130px;
+        }
+    to 
+       {
+      left: 500px;
+       }
+}
+#first2
+{
+    
+    position: absolute;
+    top:380px;
+    bottom: 100px;
+    right: 20px;
+    left:130px;
+    color:darkblue;
+   
+}
+#btnview
+{
+    font-weight: bold;
+    font-size: 18px;
+    color:white;
+    border-radius: 20px;
+    border: none;
+    width:180px;
+    height: 40px;
+    background-color: crimson;
+    
+}
+
+#navform
+{
+    margin-right: 110px;
+    margin-top: 5px;
+    position: relative;
+}
+.carousel-item
+{
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+#pone
+{
+    font-weight: bold;
+    font-size: 22px;
+    color:darkblue;
+    border-radius: 20px;
+    border: none;
+    width:180px;
+    height: 40px;
+    opacity: 0.8;
+}
+#servicecontainer
+{
+    margin-top: 100px;
+
+}
+/*SERVICES PAGE*/
+#servicebody
+{
+    
+}
+/* #searchinput
+{
+    border-radius: 50px;
+    height: 40px;
+    border: none;
+    width: 250px;
+    outline: none;
+   
+    
+    
+    
+}
+#searchinput::placeholder
+{
+     padding-left: 15px;
+} 
+
+#icon
+{
+    border: none; 
+    color: white;
+    border-radius: 15px;
+}
+
+#btnsearch
+{
+    
+    position: absolute;
+    top: 0px;
+    bottom: 0;
+    right: 0;
+    left: 216px;
+    border: none;
+    background-color:red;
+   
+  
+}
+
+#headnav:hover
+{
+    opacity: 1.0;
+}
+img{
+    width: 1400px;
+    
+    
+} */

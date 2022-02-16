@@ -1,0 +1,88 @@
+.navbar-brand
+{
+    font-weight: bold;
+    margin-left: 70px;
+    font-size: 30px;
+    
+}
+#toggleMenu
+{
+    padding-left: 250px;
+     font-weight: bold;
+     font-size: 18px;
+     
+}
+#tog
+{
+    color: red;
+}
+
+#itemcontainer
+{
+    position: relative;
+}
+#servicecontainer
+{
+    margin-top: 70px;
+}
+#offer
+{
+    color: crimson;
+}
+#carddiv
+{
+    margin-top: 50px;
+}
+
+.card-title
+{
+    color: red;
+}
+#cardcontainer1
+{
+    margin-top: 20px;
+}
+#thirdcontainer
+{
+    
+    margin-top:100px;
+    
+    
+    
+}
+#clients
+{
+    color: crimson;
+}
+#rowthird
+{
+    margin-top: 100px;
+}
+#firsticon
+{
+    padding-left: 10px;
+}
+#firstlink
+{
+    outline: none;
+    color: black;
+}
+a
+{
+    color: black;
+    margin-top: 5px;
+    text-decoration: none;
+}
+.box-wrap
+{
+    box-shadow: 0 8px 32px 0 rgb(228,231,240,255);
+}
+h4{
+    color:crimson;
+    padding-top: 10px;
+}
+#readmore
+{
+    font-weight: bold;
+    text-decoration:underline;
+}
